@@ -1,1 +1,1 @@
-Mocking the home page of Lyft <3
+Practing HTML/CSS3 skills
